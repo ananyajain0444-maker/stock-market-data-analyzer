@@ -1,0 +1,9 @@
+Metric,Value
+Highest Price,"Ticker
+AAPL    285.922455
+dtype: float64"
+Lowest Price,"Ticker
+AAPL    54.213593
+dtype: float64"
+Average Return,0.0010393228359493146
+Volatility,0.017892245305842686
