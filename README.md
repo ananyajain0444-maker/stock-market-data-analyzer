@@ -163,10 +163,3 @@ Do not use it for real investment decisions.
 ## 👩‍💻 Author
 
 **Ananya Jain**
-B.Tech CSE Student | Aspiring Data Analyst & ML Engineer
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
