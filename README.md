@@ -96,18 +96,21 @@ python main.py
 ```
 
 ---
-
 ## 📊 Output
+### 📈 Charts (stored in `images/` folder)
 
-After running the project, the following will be generated:
+#### 📊 Stock Price Chart
 
-* `data/stock_data.csv`
+![Stock Price](images/price_chart.png)
 
-* `outputs/processed_data.csv`
+#### 📈 Moving Average Chart
 
-* `reports/report.csv`
+![Moving Average](images/moving_average.png)
 
-* All generated charts will be available in the `images/` folder
+#### 📉 Returns Distribution
+
+![Returns](images/returns.png)
+
 
 ---
 
